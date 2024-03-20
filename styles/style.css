@@ -134,4 +134,8 @@ body{
         width: auto;
     }
     
+    .apresentacao__imagem{
+        width: 50%;
+        height: 200px;
+    }
 }
